@@ -1,0 +1,15 @@
+body{background-color: black }
+.instagramcard{background-color: white; width: 400px;height: 600px;margin: auto;}
+.instagramhead{ width: 400px;height: 70px;position: relative;}
+.instagrambody{width: 400px; height: 300px;}
+.instagramlegs{width: 400px;height: 70px;}
+.instagrambody img{width: 400px;height: 300px;position: relative;bottom: 20px;}
+.instagramhead span{ padding: 6px;}
+.instagramhead .fas{float: right;padding: 10px;font-size: x-large;position: relative;bottom: 50%;}
+.instagramhead .fab{padding: 7px;font-size: x-large;position: relative;top: 10px;}
+.instagramlegs .fal{padding: 7px;font-size: x-large;}
+.rigo{margin-left: 25px;}
+.instagramlegs .far{padding: 7px;font-size: x-large;}
+.instagramhead .html{position: relative;top: 5px;}
+.instagramlegs .fa-bookmark{float: right;position: relative;right: 10px;}
+.instagramlegs .fas{font-size: x-large;}
